@@ -1,23 +1,23 @@
-# IronCoach Terms of Service
+# Fitzella Terms of Service
 
 **Last updated:** July 5, 2026
 
-These Terms of Service ("Terms") govern your use of the IronCoach mobile application ("the App"), provided by Ahmad Yassine ("we," "our," "us"). By using the App, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of the Fitzella mobile application ("the App"), provided by Ahmad Yassine ("we," "our," "us"). By using the App, you agree to these Terms.
 
 ## 1. Eligibility
 
-You must be at least 16 years old to use IronCoach. By using the App, you confirm that you meet this requirement.
+You must be at least 16 years old to use Fitzella. By using the App, you confirm that you meet this requirement.
 
 ## 2. Description of Service
 
-IronCoach is a fitness tracking and AI-coached training application. It offers:
+Fitzella is a fitness tracking and AI-coached training application. It offers:
 - Manual workout logging (free)
 - AI-driven training program suggestions and progression (paid feature)
 - AI Coach conversational chat, "Ask Coach" (paid feature)
 
 ## 3. Subscriptions and Payment
 
-- IronCoach offers optional paid subscriptions at **$9.99/month** or **$59.99/year**
+- Fitzella offers optional paid subscriptions at **$9.99/month** or **$59.99/year**
 - New subscribers receive a **7-day free trial**
 - Subscriptions **automatically renew** at the end of each billing period unless cancelled before renewal
 - Subscriptions are billed and managed through the Apple App Store or Google Play Store, depending on your device
@@ -26,7 +26,7 @@ IronCoach is a fitness tracking and AI-coached training application. It offers:
 
 ## 4. Health and Fitness Disclaimer
 
-IronCoach is a fitness tool, **not a medical device**, and does not offer medical advice. You should consult a physician or qualified healthcare provider before starting any new exercise program. You use the App's training recommendations, including AI-generated suggestions, at your own risk. We are not liable for any injury, health condition, or adverse outcome resulting from your use of the App.
+Fitzella is a fitness tool, **not a medical device**, and does not offer medical advice. You should consult a physician or qualified healthcare provider before starting any new exercise program. You use the App's training recommendations, including AI-generated suggestions, at your own risk. We are not liable for any injury, health condition, or adverse outcome resulting from your use of the App.
 
 ## 5. AI-Generated Content
 
@@ -45,11 +45,11 @@ We reserve the right to suspend or terminate your account if you violate these T
 
 ## 8. Intellectual Property
 
-All content, branding, and code within the App, excluding your personal logged data, are the property of Ahmad Yassine / IronCoach and may not be copied or redistributed without permission.
+All content, branding, and code within the App, excluding your personal logged data, are the property of Ahmad Yassine / Fitzella and may not be copied or redistributed without permission.
 
 ## 9. Limitation of Liability
 
-To the fullest extent permitted by law, IronCoach and its creator shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to injury, data loss, or subscription billing disputes handled by third-party platforms.
+To the fullest extent permitted by law, Fitzella and its creator shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App, including but not limited to injury, data loss, or subscription billing disputes handled by third-party platforms.
 
 ## 10. Changes to These Terms
 

@@ -1,8 +1,8 @@
-# IronCoach Privacy Policy
+# Fitzella Privacy Policy
 
 **Last updated:** July 5, 2026
 
-IronCoach ("we," "our," "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information when you use the IronCoach mobile application ("the App").
+Fitzella ("we," "our," "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your rights regarding that information when you use the Fitzella mobile application ("the App").
 
 ## 1. Information We Collect
 
@@ -55,7 +55,7 @@ These providers only receive the data necessary to perform their function and ar
 
 ## 5. Health Data Disclaimer
 
-IronCoach is a fitness tracking and coaching tool. It is **not a medical device** and does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional before beginning any new exercise program, especially if you have pre-existing health conditions.
+Fitzella is a fitness tracking and coaching tool. It is **not a medical device** and does not provide medical advice, diagnosis, or treatment. Always consult a qualified healthcare professional before beginning any new exercise program, especially if you have pre-existing health conditions.
 
 ## 6. Your Rights
 
@@ -69,7 +69,7 @@ To exercise these rights, contact us at **vermonski@gmail.com**.
 
 ## 7. Children's Privacy
 
-IronCoach is not intended for use by individuals under the age of 16. We do not knowingly collect data from children under 16.
+Fitzella is not intended for use by individuals under the age of 16. We do not knowingly collect data from children under 16.
 
 ## 8. Data Security
 
