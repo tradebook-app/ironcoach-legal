@@ -42,7 +42,7 @@ You agree not to:
 
 ## 7. Account Termination
 
-We reserve the right to suspend or terminate your account if you violate these Terms. You may delete your account at any time by contacting us at vermonski@gmail.com.
+We reserve the right to suspend or terminate your account if you violate these Terms. You may delete your account at any time by contacting us at support@fitzella.com.
 
 ## 8. Intellectual Property
 
@@ -63,4 +63,4 @@ These Terms are governed by the laws of **Sweden**, without regard to its confli
 ## 12. Contact Us
 
 Questions about these Terms can be directed to:
-**vermonski@gmail.com**
+**support@fitzella.com**

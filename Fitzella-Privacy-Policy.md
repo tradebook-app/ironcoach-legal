@@ -65,7 +65,7 @@ You have the right to:
 - Request deletion of your account and associated data
 - Withdraw consent for data processing where applicable
 
-To exercise these rights, contact us at **vermonski@gmail.com**.
+To exercise these rights, contact us at **support@fitzella.com**.
 
 ## 7. Children's Privacy
 
@@ -82,4 +82,4 @@ We may update this Privacy Policy from time to time. Material changes will be re
 ## 10. Contact Us
 
 If you have questions about this Privacy Policy, contact us at:
-**vermonski@gmail.com**
+**support@fitzella.com**
